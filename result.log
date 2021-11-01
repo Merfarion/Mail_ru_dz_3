@@ -1,0 +1,516 @@
+  LogTemp: Display: Loaded shader NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/Zones/NS_SnowAuraStormCinematic2.NS_SnowAuraStormCinematic2:snow_0.GPUComputeScript_4 for Niagara script NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/Zones/NS_SnowAuraStormCinematic2.NS_SnowAuraStormCinematic2:snow_0.GPUComputeScript_4 from DDC
+
+  LogTemp: Display: Loaded shader NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/Zones/NS_SnowAuraStormCinematic.NS_SnowAuraStormCinematic:rays_6.GPUComputeScript_4 for Niagara script NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/Zones/NS_SnowAuraStormCinematic.NS_SnowAuraStormCinematic:rays_6.GPUComputeScript_4 from DDC
+
+  LogCook: Display: Loading secondary levels for package 'HoudiniLandscape'
+
+  LogCook: Display: Cooked packages 1650 Packages Remain 3144 Total 4794
+
+  LogCook: Display: Loading secondary levels for package 'ShootingRange'
+
+  LogCook: Display: Cooked packages 1700 Packages Remain 3317 Total 5017
+
+  LogCook: Display: Cooked packages 1750 Packages Remain 3383 Total 5133
+
+  LogCook: Display: Cooked packages 1800 Packages Remain 3383 Total 5183
+
+  LogCook: Display: Cooked packages 1850 Packages Remain 3383 Total 5233
+
+  LogCook: Display: Loading secondary levels for package 'Arena05_P'
+
+  LogCook: Display: Cooked packages 1900 Packages Remain 3543 Total 5443
+
+  LogCook: Display: Loading secondary levels for package 'Arena01_P'
+
+  LogCook: Display: Cooked packages 1950 Packages Remain 3548 Total 5498
+
+  LogCook: Display: Cooked packages 2000 Packages Remain 3546 Total 5546
+
+  LogCook: Display: Cooked packages 2050 Packages Remain 3545 Total 5595
+
+  LogCook: Display: Cooked packages 2100 Packages Remain 3544 Total 5644
+
+  LogCook: Display: Cooked packages 2150 Packages Remain 3431 Total 5581
+
+  LogCook: Display: Cooked packages 2200 Packages Remain 3427 Total 5627
+
+  LogCook: Display: Cooked packages 2250 Packages Remain 3425 Total 5675
+
+  LogTemp: Display: Loaded shader NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/Zones/NS_SnowAuraStorm.NS_SnowAuraStorm:snow_0.GPUComputeScript_4 for Niagara script NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/Zones/NS_SnowAuraStormCinematic2.NS_SnowAuraStormCinematic2:snow_0.GPUComputeScript_5 from DDC
+
+  LogTemp: Display: Loaded shader NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/Zones/NS_SnowAuraStormCinematic.NS_SnowAuraStormCinematic:rays_6.GPUComputeScript_5 for Niagara script NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/Zones/NS_SnowAuraStormCinematic.NS_SnowAuraStormCinematic:rays_6.GPUComputeScript_5 from DDC
+
+  LogCook: Display: Cooked packages 2300 Packages Remain 3416 Total 5716
+
+  LogCook: Display: Cooked packages 2350 Packages Remain 3411 Total 5761
+
+  LogCook: Display: Cooked packages 2400 Packages Remain 3405 Total 5805
+
+  LogCook: Display: Cooked packages 2450 Packages Remain 3356 Total 5806
+
+  LogCook: Display: Cooked packages 2500 Packages Remain 3352 Total 5852
+
+  LogTemp: Display: Loaded shader NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/Zones/NS_SnowAuraStorm.NS_SnowAuraStorm:rays_6.GPUComputeScript for Niagara script NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/Zones/NS_SnowAuraStorm.NS_SnowAuraStorm:rays_6.GPUComputeScript from DDC
+
+  LogTemp: Display: Loaded shader NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/Zones/NS_SnowAura.NS_SnowAura:NE_SimpleSprite422_0.GPUComputeScript_4 for Niagara script NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/Zones/NS_SnowAura.NS_SnowAura:NE_SimpleSprite422_0.GPUComputeScript_4 from DDC
+
+  LogCook: Display: Cooked packages 2550 Packages Remain 3330 Total 5880
+
+  LogTemp: Display: Loaded shader NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/NS_CampfireSmoke.NS_CampfireSmoke:Embers_0.GPUComputeScript_4 for Niagara script NiagaraScript /Game/D1/Art/Effects/Niagara/Systems/NS_CampfireSmoke.NS_CampfireSmoke:Embers_0.GPUComputeScript_4 from DDC
+
+  LogCook: Display: Cooked packages 2600 Packages Remain 3331 Total 5931
+
+  LogCook: Display: Loading secondary levels for package 'ZOI3b_P'
+
+  LogCook: Display: Cooked packages 2650 Packages Remain 3375 Total 6025
+
+  LogCook: Display: Cooked packages 2700 Packages Remain 3361 Total 6061
+
+  LogCook: Display: Cooked packages 2750 Packages Remain 3358 Total 6108
+
+  LogCook: Display: Cooked packages 2800 Packages Remain 3328 Total 6128
+
+  LogCook: Display: Cooked packages 2850 Packages Remain 3356 Total 6206
+
+  LogCook: Display: Cooked packages 2900 Packages Remain 3353 Total 6253
+
+  LogCook: Display: Cooked packages 2950 Packages Remain 3353 Total 6303
+
+  LogCook: Display: Cooked packages 3000 Packages Remain 3362 Total 6362
+
+  LogCook: Display: Cooked packages 3050 Packages Remain 3361 Total 6411
+
+  LogCook: Display: Cooked packages 3100 Packages Remain 3358 Total 6458
+
+  LogCook: Display: Cooked packages 3150 Packages Remain 3357 Total 6507
+
+  LogCook: Display: Cooked packages 3200 Packages Remain 3332 Total 6532
+
+  LogCook: Display: Cooked packages 3250 Packages Remain 3324 Total 6574
+
+  LogCook: Display: Cooked packages 3300 Packages Remain 3320 Total 6620
+
+  LogCook: Display: Cooked packages 3350 Packages Remain 3319 Total 6669
+
+  LogCook: Display: Cooked packages 3400 Packages Remain 3319 Total 6719
+
+  LogCook: Display: Cooked packages 3450 Packages Remain 3278 Total 6728
+
+  LogCook: Display: Cooked packages 3500 Packages Remain 3279 Total 6779
+
+  LogCook: Display: Cooked packages 3550 Packages Remain 3236 Total 6786
+
+  LogCook: Display: Cooked packages 3600 Packages Remain 3239 Total 6839
+
+  LogCook: Display: Cooked packages 3650 Packages Remain 3226 Total 6876
+
+  LogCook: Display: Cooked packages 3700 Packages Remain 3113 Total 6813
+
+  LogCook: Display: Cooked packages 3750 Packages Remain 3046 Total 6796
+
+  LogCook: Display: Cooked packages 3800 Packages Remain 3045 Total 6845
+
+  LogCook: Display: Cooked packages 3850 Packages Remain 3037 Total 6887
+
+  LogCook: Display: Loading secondary levels for package 'Lab03_P'
+
+  LogCook: Display: Cooked packages 3900 Packages Remain 2924 Total 6824
+
+  LogCook: Display: Cooked packages 3950 Packages Remain 2392 Total 6342
+
+  LogCook: Display: Cooked packages 4000 Packages Remain 2324 Total 6324
+
+  LogCook: Display: Cooked packages 4050 Packages Remain 2289 Total 6339
+
+  LogCook: Display: Cooked packages 4100 Packages Remain 1947 Total 6047
+
+  LogCook: Display: Cooked packages 4150 Packages Remain 1817 Total 5967
+
+  LogCook: Display: Cooked packages 4200 Packages Remain 1813 Total 6013
+
+  LogCook: Display: Cooked packages 4250 Packages Remain 1800 Total 6050
+
+  LogCook: Display: Cooked packages 4251 Packages Remain 1622 Total 5873
+
+  LogCook: Display: Cooked packages 4252 Packages Remain 1621 Total 5873
+
+  LogCook: Display: Cooked packages 4253 Packages Remain 1619 Total 5872
+
+  LogCook: Display: Cooked packages 4254 Packages Remain 1618 Total 5872
+
+  LogCook: Display: Cooked packages 4257 Packages Remain 1613 Total 5870
+
+  LogCook: Display: Cooked packages 4258 Packages Remain 1608 Total 5866
+
+  LogCook: Display: Cooked packages 4259 Packages Remain 1606 Total 5865
+
+  LogCook: Display: Cooked packages 4263 Packages Remain 1605 Total 5868
+
+  LogCook: Display: Cooked packages 4269 Packages Remain 1604 Total 5873
+
+  LogCook: Display: Cooked packages 4270 Packages Remain 1603 Total 5873
+
+  LogCook: Display: Cooked packages 4272 Packages Remain 1603 Total 5875
+
+  LogCook: Display: Cooked packages 4273 Packages Remain 1601 Total 5874
+
+  LogCook: Display: Cooked packages 4274 Packages Remain 1562 Total 5836
+
+  LogCook: Display: Cooked packages 4275 Packages Remain 1549 Total 5824
+
+  LogCook: Display: Cooked packages 4276 Packages Remain 1457 Total 5733
+
+  LogCook: Display: Cooked packages 4277 Packages Remain 1148 Total 5425
+
+  LogCook: Display: Cooked packages 4278 Packages Remain 1129 Total 5407
+
+  LogCook: Display: Cooked packages 4279 Packages Remain 993 Total 5272
+
+  LogCook: Display: Cooked packages 4280 Packages Remain 992 Total 5272
+
+  LogCook: Display: Cooked packages 4281 Packages Remain 979 Total 5260
+
+  LogCook: Display: Cooked packages 4282 Packages Remain 964 Total 5246
+
+  LogCook: Display: Cooked packages 4283 Packages Remain 963 Total 5246
+
+  LogCook: Display: Cooked packages 4284 Packages Remain 961 Total 5245
+
+  LogCook: Display: Cooked packages 4285 Packages Remain 960 Total 5245
+
+  LogCook: Display: Cooked packages 4286 Packages Remain 959 Total 5245
+
+  LogCook: Display: Cooked packages 4288 Packages Remain 956 Total 5244
+
+  LogCook: Display: Cooked packages 4290 Packages Remain 955 Total 5245
+
+  LogCook: Display: Cooked packages 4292 Packages Remain 954 Total 5246
+
+  LogCook: Display: Cooked packages 4294 Packages Remain 953 Total 5247
+
+  LogCook: Display: Cooked packages 4296 Packages Remain 952 Total 5248
+
+  LogCook: Display: Cooked packages 4299 Packages Remain 951 Total 5250
+
+  LogCook: Display: Cooked packages 4300 Packages Remain 956 Total 5256
+
+  LogCook: Display: Cooked packages 4306 Packages Remain 955 Total 5261
+
+  LogCook: Display: Cooked packages 4307 Packages Remain 954 Total 5261
+
+  LogCook: Display: Cooked packages 4308 Packages Remain 952 Total 5260
+
+  LogCook: Display: Cooked packages 4309 Packages Remain 950 Total 5259
+
+  LogCook: Display: Cooked packages 4310 Packages Remain 949 Total 5259
+
+  LogCook: Display: Cooked packages 4321 Packages Remain 949 Total 5270
+
+  LogCook: Display: Cooked packages 4323 Packages Remain 948 Total 5271
+
+  LogCook: Display: Cooked packages 4325 Packages Remain 947 Total 5272
+
+  LogCook: Display: Cooked packages 4328 Packages Remain 944 Total 5272
+
+  LogCook: Display: Cooked packages 4330 Packages Remain 943 Total 5273
+
+  LogCook: Display: Cooked packages 4335 Packages Remain 941 Total 5276
+
+  LogCook: Display: Cooked packages 4336 Packages Remain 940 Total 5276
+
+  LogCook: Display: Cooked packages 4340 Packages Remain 939 Total 5279
+
+  LogCook: Display: Cooked packages 4341 Packages Remain 938 Total 5279
+
+  LogCook: Display: Cooked packages 4345 Packages Remain 938 Total 5283
+
+  LogCook: Display: Cooked packages 4346 Packages Remain 936 Total 5282
+
+  LogCook: Display: Cooked packages 4347 Packages Remain 935 Total 5282
+
+  LogCook: Display: Cooked packages 4349 Packages Remain 934 Total 5283
+
+  LogCook: Display: Cooked packages 4350 Packages Remain 933 Total 5283
+
+  LogCook: Display: Cooked packages 4352 Packages Remain 932 Total 5284
+
+  LogCook: Display: Cooked packages 4353 Packages Remain 931 Total 5284
+
+  LogCook: Display: Cooked packages 4354 Packages Remain 930 Total 5284
+
+  LogCook: Display: Loading secondary levels for package 'Village01_P'
+
+  LogCook: Display: Cooked packages 4400 Packages Remain 936 Total 5336
+
+  LogCook: Display: Cooked packages 4450 Packages Remain 1053 Total 5503
+
+  LogCook: Display: Loading secondary levels for package 'ZOI2_P'
+
+  LogCook: Display: Cooked packages 4500 Packages Remain 782 Total 5282
+
+  LogCook: Display: Cooked packages 4550 Packages Remain 736 Total 5286
+
+  LogCook: Display: Cooked packages 4600 Packages Remain 812 Total 5412
+
+  LogCook: Display: Cooked packages 4650 Packages Remain 835 Total 5485
+
+  LogCook: Display: Cooked packages 4700 Packages Remain 843 Total 5543
+
+  LogCook: Display: Cooked packages 4750 Packages Remain 829 Total 5579
+
+  LogCook: Display: Cooked packages 4800 Packages Remain 818 Total 5618
+
+  LogCook: Display: Cooked packages 4840 Packages Remain 831 Total 5671
+
+  LogCook: Display: Cooked packages 4841 Packages Remain 813 Total 5654
+
+  LogCook: Display: Cooked packages 4842 Packages Remain 800 Total 5642
+
+  LogCook: Display: Cooked packages 4843 Packages Remain 749 Total 5592
+
+  LogCook: Display: Loading secondary levels for package 'ArenaMeat2_P'
+
+  LogCook: Display: Cooked packages 4850 Packages Remain 751 Total 5601
+
+  LogCook: Display: Cooked packages 4856 Packages Remain 748 Total 5604
+
+  LogCook: Display: Loading secondary levels for package 'Lab02_P'
+
+  LogCook: Display: Cooked packages 4856 Packages Remain 746 Total 5602
+
+  LogCook: Display: Cooked packages 4863 Packages Remain 696 Total 5559
+
+  LogCook: Display: Cooked packages 4864 Packages Remain 688 Total 5552
+
+  LogCook: Display: Loading secondary levels for package 'Arena03_P'
+
+  LogCook: Display: Loading secondary levels for package 'TempleFort_P'
+
+  LogCook: Display: Cooked packages 4898 Packages Remain 577 Total 5475
+
+  LogCook: Display: Cooked packages 4948 Packages Remain 559 Total 5507
+
+  LogCook: Display: Cooked packages 4952 Packages Remain 452 Total 5404
+
+  LogCook: Display: Cooked packages 4953 Packages Remain 450 Total 5403
+
+  LogCook: Display: Cooked packages 4954 Packages Remain 446 Total 5400
+
+  LogCook: Display: Cooked packages 4956 Packages Remain 443 Total 5399
+
+  LogCook: Display: Cooked packages 4957 Packages Remain 442 Total 5399
+
+  LogCook: Display: Cooked packages 4998 Packages Remain 467 Total 5465
+
+  LogCook: Display: Cooked packages 5037 Packages Remain 458 Total 5495
+
+  LogCook: Display: Cooked packages 5038 Packages Remain 456 Total 5494
+
+  LogCook: Display: Cooked packages 5039 Packages Remain 453 Total 5492
+
+  LogCook: Display: Cooked packages 5040 Packages Remain 452 Total 5492
+
+  LogCook: Display: Cooked packages 5043 Packages Remain 450 Total 5493
+
+  LogCook: Display: Cooked packages 5045 Packages Remain 449 Total 5494
+
+  LogCook: Display: Cooked packages 5046 Packages Remain 447 Total 5493
+
+  LogCook: Display: Cooked packages 5047 Packages Remain 272 Total 5319
+
+  LogCook: Display: Cooked packages 5048 Packages Remain 239 Total 5287
+
+  LogCook: Display: Cooked packages 5098 Packages Remain 123 Total 5221
+
+  LogCook: Display: Cooked packages 5148 Packages Remain 80 Total 5228
+
+  LogCook: Display: Cooked packages 5179 Packages Remain 30 Total 5209
+
+  LogCook: Display: Cooked packages 5179 Packages Remain 0 Total 5179
+
+  LogCook: Display: Finishing up...
+
+  LogCook: Display: Cook by the book total time in tick 109.467938s total time 118.405449
+
+  LogCook: Display: Peak Used virtual 3270MB Peak Used physical 3187MB
+
+  LogCook: Display: Hierarchy Timer Information:
+
+  LogCook: Display:   Root: 0.000s (0)
+
+  LogCook: Display:     StartCookByTheBookTime: 8.336s (1)
+
+  LogCook: Display:       GenerateAssetRegistryTime: 3.765s (1)
+
+  LogCook: Display:       CleanSandboxTime: 3.749s (1)
+
+  LogCook: Display:         ProcessingAccessedStrings: 0.009s (1)
+
+  LogCook: Display:       CollectFilesToCook: 0.102s (1)
+
+  LogCook: Display:         CookModificationDelegate: 0.000s (1)
+
+  LogCook: Display:         GeneratePackageNames: 0.000s (1)
+
+  LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+
+  LogCook: Display:     TickCookOnTheSide: 109.392s (178)
+
+  LogCook: Display:       LoadPackage: 58.582s (144)
+
+  LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.032s (178)
+
+  LogCook: Display:       PostLoadPackageFixup: 2.789s (178)
+
+  LogCook: Display:       SavingPackages: 47.975s (176)
+
+  LogCook: Display:         PrecachePlatformDataForNextPackage: 0.016s (5103)
+
+  LogCook: Display:         PrecachePlatformDataForNextNextPackage: 1.651s (5072)
+
+  LogCook: Display:         SaveCookedPackage: 45.867s (5179)
+
+  LogCook: Display:           LoadPackage: 0.012s (5126)
+
+  LogCook: Display:           GEditorSavePackage: 45.556s (5126)
+
+  LogCook: Display:             ConvertingBlueprints: 0.070s (5126)
+
+  LogCook: Display:             VerifyCanCookPackage: 0.025s (5104)
+
+  LogCook: Display:         ClearAllCachedCookedPlatformData: 0.240s (5179)
+
+  LogCook: Display:         EnqueueUnsavedPackages: 0.052s (100)
+
+  LogCook: Display:     GeneratingBlueprintAssets: 0.020s (1)
+
+  LogCook: Display:     SavingCurrentIniSettings: 0.067s (1)
+
+  LogCook: Display:       ProcessingAccessedStrings: 0.007s (1)
+
+  LogCook: Display:     SavingAssetRegistry: 0.358s (1)
+
+  LogCook: Display:       BuildChunkManifest: 0.160s (1)
+
+  LogCook: Display:       SaveManifests: 0.006s (1)
+
+  LogCook: Display:       SaveRealAssetRegistry: 0.166s (1)
+
+  LogCook: Display:       WriteCookerOpenOrder: 0.026s (1)
+
+  LogCook: Display: Done!
+
+  LogInit: Display:
+
+  LogInit: Display: Warning/Error Summary (Unique only)
+
+  LogInit: Display: -----------------------------------
+
+  LogInit: Display: LogUProjectInfo: Warning: Project search path 'D:\repo\proto\Client' is not under root directory, ignoring.
+
+  LogInit: Display: LogWindows: Warning: CreateProc failed: ?? ??????? ????? ????????? ????. (0x00000002)
+
+  LogInit: Display: LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+
+  LogInit: Display: LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+
+  LogInit: Display: LogWindows: Warning: URL: C:\Users\d.galamaga\AppData\Local/Programs/Git/cmd/git.exe version
+
+  LogInit: Display: LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+
+  LogInit: Display: LogWindows: Warning: URL: C:\Users\d.galamaga\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+
+  LogInit: Display: LogBlueprint: Warning: FMemberReference::ResolveMember (GetOwner) bSelfContext == true, but no scope supplied!
+
+  LogInit: Display: LogUObjectGlobals: Warning: While loading 'D:/repo/proto/Client/Content/Tests/Maps/HoudiniLandscape.umap' failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_bedrock_3': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: While loading 'D:/repo/proto/Client/Content/Tests/Maps/HoudiniLandscape.umap' failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_cliffs_2': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: While loading 'D:/repo/proto/Client/Content/Tests/Maps/HoudiniLandscape.umap' failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_debris_6': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: While loading 'D:/repo/proto/Client/Content/Tests/Maps/HoudiniLandscape.umap' failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_DebrisLayer_9': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: While loading 'D:/repo/proto/Client/Content/Tests/Maps/HoudiniLandscape.umap' failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_GrassLayer_10': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: While loading 'D:/repo/proto/Client/Content/Tests/Maps/HoudiniLandscape.umap' failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_HandcraftedRock_12': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: While loading 'D:/repo/proto/Client/Content/Tests/Maps/HoudiniLandscape.umap' failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_mesa_1': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: While loading 'D:/repo/proto/Client/Content/Tests/Maps/HoudiniLandscape.umap' failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_RockLayer_8': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: While loading 'D:/repo/proto/Client/Content/Tests/Maps/HoudiniLandscape.umap' failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_SandLayer_11': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: While loading 'D:/repo/proto/Client/Content/Tests/Maps/HoudiniLandscape.umap' failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_sediment_4': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: While loading 'D:/repo/proto/Client/Content/Tests/Maps/HoudiniLandscape.umap' failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_water_7': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_bedrock_3': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_cliffs_2': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_debris_6': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_DebrisLayer_9': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_GrassLayer_10': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_HandcraftedRock_12': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_mesa_1': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_RockLayer_8': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_SandLayer_11': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_sediment_4': Can't find file.
+
+  LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/HoudiniEngine/Temp/HDA_TerrainToolD629CDC34BCF_LayerInfoObject_water_7': Can't find file.
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_0 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_1 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_2 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_3 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_4 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_5 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_6 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_7 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_8 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_9 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_10 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_11 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_12 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_13 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_14 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_15 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_16 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_17 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_18 : Fixed up deleted layer weightmap
+
+  LogInit: Display: MapCheck: Warning: /Game/Tests/Maps/HoudiniLandscape.HoudiniLandscape:PersistentLevel.Landscape_0.LandscapeComponent_19 : Fixed up deleted layer weightmap
+
+  LogInit: Display: NOTE: Only first 50 warnings displayed.
+
+  LogInit: Display:
+
+  LogInit: Display: Success - 0 error(s), 7613 warning(s)
+
+  LogInit: Display:
+
