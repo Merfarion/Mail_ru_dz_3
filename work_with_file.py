@@ -1,23 +1,21 @@
+# work_with_file.py [a-zA-Z]{17}: Test_Mail\log.log
 import os
 import re
+from sys import argv
 
-script_dir = os.path.dirname(__file__)  # Получение пути до директории скрипта
-path = input()  # Ввод пути до файла или папки (в моем примере это Test_Mail/log.log или Test_Mail)
-pattern = re.compile(' [a-zA-Z]{7}: [a-zA-Z]{7}:')  # Регулярка для поиска подходящих строк
-abs_file_path = os.path.join(script_dir, path)  # Прикрепление к пути директории тот путь, что мы ввели
-result = open('result.log', 'w')  # Открытие файла на запись для результатов поиска
-# print(abs_file_path)  # Вывод пути
-if abs_file_path.find('.log') != -1:  # Проверка на то, что у нас путь к файлу
-    with open(abs_file_path, "r") as f:  # Открытие файла на чтение
-        for line in f:  # Цикл для взаимодействия с файлом построчно
-            print(line)  # Вывод строки
-            if pattern.findall(line):  # Проверяем, есть ли совпадение с шаблоном
-                result.write(line + '\n')  # Запись подходящих строк в файл
-else:  # Иначе)
-    for file in os.listdir(abs_file_path):  # Цикл для перечисление файлов в директории
-        with open(os.path.join(abs_file_path, file), 'r') as f:  # Открытие файла на чтение
+script, regular, path = argv
+pattern = re.compile(regular)  # Регулярка для поиска подходящих строк
+with open('result.log', 'w') as result:
+    if os.path.isdir(path):
+        for file in os.listdir(path):  # Цикл для перечисление файлов в директории
+            with open(os.path.join(path, file), 'r') as f:  # Открытие файла на чтение
+                for line in f:  # Цикл для взаимодействия с файлом построчно
+                    if pattern.findall(line):  # Проверяем, есть ли совпадение с шаблоном
+                        result.write(line)  # Запись подходящих строк в файл
+                        print(line)  # Вывод строки
+    elif os.path.isfile(path):
+        with open(path, "r") as f:
             for line in f:  # Цикл для взаимодействия с файлом построчно
-                print(line)  # Вывод строки
                 if pattern.findall(line):  # Проверяем, есть ли совпадение с шаблоном
-                    result.write(line + '\n')  # Запись подходящих строк в файл
-result.close()  # Закрытие файла
+                    result.write(line)  # Запись подходящих строк в файл
+                    print(line)  # Вывод строки
